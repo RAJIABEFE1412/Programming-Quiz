@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/html"
+            android:icon="@drawable/html"
+            android:title="HTML 5" />
+        <item
+            android:id="@+id/css"
+            android:icon="@drawable/css"
+            android:title="CSS 3" />
+        <item
+            android:id="@+id/js"
+            android:icon="@drawable/js"
+            android:title="JavaScript" />
+        <item
+            android:id="@+id/java"
+            android:icon="@drawable/java"
+            android:title="Java" />
+    </group>
+
+    <item android:title="Become an Admin">
+        <menu>
+            <item
+                android:id="@+id/share_question"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share Question" />
+            <item
+                android:id="@+id/admin_login"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Login" />
+        </menu>
+    </item>
+
+</menu>

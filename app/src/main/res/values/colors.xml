@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#CCC</color>
+    <color name="startColor">#fff</color>
+    <color name="javaPane">#90afc5</color>
+    <color name="jsPane">#bfc99e10</color>
+    <color name="htmlPane">#fb6542</color>
+    <color name="cssPane">#4897d8</color>
+</resources>
